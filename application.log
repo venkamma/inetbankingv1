@@ -1,0 +1,4 @@
+2022-01-26 17:24:04,466  INFO [main] SeleniumFramework 13 - URL is opened
+2022-01-26 17:24:04,641  INFO [main] SeleniumFramework 17 - Username Entered
+2022-01-26 17:24:04,703  INFO [main] SeleniumFramework 20 - Password Entered
+2022-01-26 17:24:05,769  INFO [main] SeleniumFramework 25 - Login Test case passed
